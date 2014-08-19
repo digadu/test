@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{2AE1DE4B-25A4-4F4E-91EE-4D9F92CDC426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1.Tests", "MvcApplication1.Tests\MvcApplication1.Tests.csproj", "{EDDF70E5-51BD-4AE1-9727-2FA4F9A22B2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6E0A5BEB-2B84-4AC4-8033-78F88CB44A6F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE1DE4B-25A4-4F4E-91EE-4D9F92CDC426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE1DE4B-25A4-4F4E-91EE-4D9F92CDC426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE1DE4B-25A4-4F4E-91EE-4D9F92CDC426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE1DE4B-25A4-4F4E-91EE-4D9F92CDC426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDF70E5-51BD-4AE1-9727-2FA4F9A22B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDF70E5-51BD-4AE1-9727-2FA4F9A22B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDF70E5-51BD-4AE1-9727-2FA4F9A22B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDF70E5-51BD-4AE1-9727-2FA4F9A22B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
